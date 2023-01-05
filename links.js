@@ -1,0 +1,33 @@
+export var lgtm = {
+  animals: [
+    'https://image.lgtmoon.dev/85034',
+    'https://image.lgtmoon.dev/140742',
+    'https://image.lgtmoon.dev/11019',
+    'https://image.lgtmoon.dev/88910',
+    'https://image.lgtmoon.dev/24437',
+    'https://i.lgtm.fun/rcz.gif',
+    'https://image.lgtmoon.dev/145684',
+    'https://image.lgtmoon.dev/32980',
+    'https://i.lgtm.fun/1dqd.png',
+    'https://image.lgtmoon.dev/5911',
+    'https://i.lgtm.fun/20nd.gif',
+    'https://image.lgtmoon.dev/93717',
+    'https://image.lgtmoon.dev/71829',
+    'https://i.lgtm.fun/1d72.gif',
+    'https://i.lgtm.fun/11ql.gif',
+    'https://i.lgtm.fun/sde.png',
+    'https://i.lgtm.fun/arv.gif',
+    'https://image.lgtmoon.dev/184281',
+  ],
+  foods: [
+    'https://i.lgtm.fun/ph2.png',
+    'https://i.lgtm.fun/rwm.png',
+    'https://i.lgtm.fun/1fvp.png',
+  ],
+  random: [
+    'https://i.lgtm.fun/bgq.gif',
+    'https://i.lgtm.fun/c2p.gif',
+    'https://image.lgtmoon.dev/35581',
+    'https://i.lgtm.fun/en7.png',
+  ],
+}
